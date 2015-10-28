@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manjeshpv/travis-nodejs-mysql-demo/issues"
   },
-  "homepage": "https://github.com/manjeshpv/travis-nodejs-mysql-demo#readme"
+  "homepage": "https://github.com/manjeshpv/travis-nodejs-mysql-demo#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
 }
